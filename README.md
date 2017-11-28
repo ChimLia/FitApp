@@ -11,3 +11,5 @@ This application will be a life-helper. It offers to the user different fitness 
 * calculating your path while running (GPS)
 * viewing information on healthy food
   
+  Base project : 
+https://github.com/codepath/android-menus-popups-dialogs-demo
