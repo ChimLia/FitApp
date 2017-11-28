@@ -13,3 +13,4 @@ This application will be a life-helper. It offers to the user different fitness 
   
   Base project : 
 https://github.com/codepath/android-menus-popups-dialogs-demo
+https://github.com/codepath/android_guides/wiki/Sample-Android-Apps
